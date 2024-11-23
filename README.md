@@ -1,5 +1,5 @@
 # Name: Halimah Abdulrasheed Instructor: Franco Carlacci Course: CS3790 Assignment 4  Date: 11/23/2024
-Game of Life with Threads
+# Game of Life with Threads
 
 Overview: 
 This is a multithreaded implementation of Conway's Game of Life using C++. The program divides the game board into sections and processes each section in parallel using threads for improved performance. The interface uses NCurses for interactive cell selection and display.
