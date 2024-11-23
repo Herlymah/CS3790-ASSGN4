@@ -1,4 +1,5 @@
 Game of Life with Threads
+
 Overview
 This is a multithreaded implementation of Conway's Game of Life using C++. The program divides the game board into sections and processes each section in parallel using threads for improved performance. The interface uses NCurses for interactive cell selection and display.
 Compiling the Program
