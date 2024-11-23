@@ -1,3 +1,4 @@
+# Name: Halimah Abdulrasheed Instructor: Franco Carlacci Course: CS3790 Assignment 4  Date: 11/23/2024
 Game of Life with Threads
 
 Overview: 
